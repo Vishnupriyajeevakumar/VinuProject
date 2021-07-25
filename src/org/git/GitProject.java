@@ -14,8 +14,13 @@ public class GitProject {
 	}
 	private void address() {
 	System.out.println("Chennai");
-
 	}
+	private void location() {
+		System.out.println("mumbai");
+		}
+	private void salary() {
+		System.out.println("10 lak");
+		}
 	
 	public static void main(String[] args) {
 		GitProject gp = new GitProject();
